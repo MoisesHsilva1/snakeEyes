@@ -1,7 +1,7 @@
 <h1 align="center">🐍 snakeEyes</h1>
 
 <p align="center">
-  <strong>Minha customização pessoal do KDE com meus apps, atalhos e scripts utilitários</strong><br>
+  <strong>Minha customização pessoal do KDE (distros baseado em arch linux) com meus apps, atalhos e scripts utilitários</strong><br>
 </p>
 
 <p align="center">
